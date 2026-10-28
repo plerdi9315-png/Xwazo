@@ -1,0 +1,41 @@
+{
+  "users": {
+    "1129578244": {
+      "username": "TheeRillKingsZunn",
+      "joinedAt": "2026-10-01T06:53:02.494Z",
+      "deployCount": 0
+    },
+    "1600878281": {
+      "username": "topsbypas",
+      "joinedAt": "2026-10-13T13:59:21.535Z",
+      "deployCount": 0
+    },
+    "8549443075": {
+      "username": "RulssModss",
+      "joinedAt": "2026-10-01T11:57:11.794Z",
+      "deployCount": 0
+    },
+    "6419960538": {
+      "username": "its.Xynn",
+      "joinedAt": "2026-10-03T12:09:51.990Z",
+      "deployCount": 0
+    },
+    "8226818999": {
+      "username": "XZwA9",
+      "joinedAt": "2026-10-14T03:52:53.006Z",
+      "deployCount": 0
+    }
+  },
+  "bots": {},
+  "blacklist": {},
+  "limits": {},
+  "totalDeploys": 0,
+  "ownerId": 8226818999,
+  "verified": {
+    "8226818999": true,
+  },
+  "githubTokens": [
+    "8738838230:AAHvlu-qvVV_8QdvXTckhK_yslZMrLWNHUk"
+  ],
+  "tokens": [" "]
+}
